@@ -1,0 +1,28 @@
+name: The Greate Group
+favicon: null
+layout_spectrum: 0.04606468719430268
+typography_spectrum: 0.43132531363517046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7156983837485313
+  lightness: 0.15796147962100804
+  saturation: 0.19739514496177435
+  rhythmicContrast: 0.9436051233205944
+purpose: []
