@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Greate Group - Creating Your Greatest Business Dreams Come True]]></title>
+        <description><![CDATA[The Greate Group - Creating Your Greatest Business Dreams Come True]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 15:27:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fec5e5ed1742eaea0e851ec89b83ad93/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F39760d08-53cd-4e8f-a76b-cff058b5406f.jpg">]]></description>
+            <link>undefinedundefined/index.html</link>
+            <guid isPermaLink="false">b5604709-3736-4a0e-813e-6b046cfeb91c</guid>
+            <pubDate>Mon, 04 Apr 2016 15:26:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
